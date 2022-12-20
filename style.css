@@ -24,6 +24,11 @@ a{
     font-size: 18px;
 }
 
+.links{
+    display: flex;
+    gap: 8px;
+}
+
 /* SECTION 1 */
 .section1{
     display: flex;
