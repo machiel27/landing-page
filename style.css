@@ -119,3 +119,35 @@ a{
     color: #1f2937a6;
     font-size: smaller;
 }
+
+/* SECTION 3 */
+.section3{
+    background-color: #E5E7EB;
+    padding: 80px;
+    gap: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quoteText{
+    font-size: 36px;
+    color: #1f2937b8;
+    font-weight: lighter;
+}
+
+.quoteAuthor{
+    font-size: 18px;
+    color: #1F2937;
+    font-weight: bolder;
+    align-self: flex-end;
+}
+
+.textContainer{
+    width: 70vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
