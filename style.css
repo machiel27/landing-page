@@ -151,3 +151,48 @@ a{
     justify-content: center;
     align-items: center;
 }
+
+/* SECTION 4 */
+.section4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+}
+
+.actionContainer{
+    width: 65vw;
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882F6;
+    padding: 52px;
+    border-radius: 8px;
+}
+
+.actionText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.actionHead{
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.actionSub{
+    color: #f9faf8c7;
+    font-size: smaller;
+}
+
+.actionButton > button{
+    padding: 10px 24px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 8px;
+    border: solid;
+    border-color: #F9FAF8;
+    margin-top: 10px;
+    border-width: thin;
+}
