@@ -32,7 +32,7 @@ a{
 /* SECTION 1 */
 .section1{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
     gap: 48px;
     background-color: #1F2937;
@@ -195,4 +195,14 @@ a{
     border-color: #F9FAF8;
     margin-top: 10px;
     border-width: thin;
+}
+
+/* FOOTER */
+.footer{
+    color: #e5e7eb9e;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
 }
