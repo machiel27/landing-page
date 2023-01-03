@@ -8,3 +8,5 @@ Skills demonstrated:
 -CSS
 
 -Flexbox Design
+
+Live Preview: https://machiel27.github.io/landing-page/
